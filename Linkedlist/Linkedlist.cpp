@@ -138,6 +138,12 @@ int main()
 		cin >> (ch);
 		switch (ch)
 		{
-	
+		case '1':
+		{
+			mhs.addNode();
+		}
+		break;
+
+		
 	}
 }
