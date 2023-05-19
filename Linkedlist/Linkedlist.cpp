@@ -121,3 +121,23 @@ void List::traverse()/*mengunjungi dan membaca data dalam  list*/
 	}
 }
 
+int main()
+{
+	List mhs;
+	int nim;
+	char ch;
+	while (1)
+	{
+		cout << endl << "Menu";
+		cout << endl << "1. menambah data kedalam list" << endl;
+		cout << "2. menghapus data dari dalam list" << endl;
+		cout << "3. menampilkan semua data di dalam list" << endl;
+		cout << "4. mencari data didalam list" << endl;
+		cout << "5. Keluar" << endl;
+		cout << endl << "masukkan pilihan (1-5) : ";
+		cin >> (ch);
+		switch (ch)
+		{
+	
+	}
+}
